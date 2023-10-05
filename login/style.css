@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient( to bottom, #7a72fd, 
+    #9f3ff4, #b42ff4);
+   
+    padding: 120px;
+  }
+  
+  .login {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  h4 {
+    font-size: 12px;
+    font-weight:10px
+  }
+  .form input {
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #7a72fd;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .form button:hover {
+    background-color: #7a72fd;
+  }
+  
+  .mensagem {
+    font-size: 14px;
+  }
+  
+  .mensagem a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
